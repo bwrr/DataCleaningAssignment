@@ -1,2 +1,2 @@
-# DataClearningAssignment
+# DataCleaningAssignment
 Data Cleaning Coursera Assignment
